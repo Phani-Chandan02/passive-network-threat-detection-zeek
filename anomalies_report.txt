@@ -1,0 +1,18 @@
+=== DNS Anomaly Report ===
+
+Total unique IPs: 3
+Total queries: 15139
+Total anomalies: 301 (1.99%)
+
+Top 5 domains:
+time.nist.gov: 12331
+localhost: 2485
+ntp1.dlink.com: 246
+clients4.google.com: 8
+ssl.gstatic.com: 5
+
+Detailed per-IP summary:
+       src_ip  anomaly_count  total_queries  avg_score
+192.168.88.52             55             77   0.090499
+192.168.88.61              0          12331  -0.146577
+ 192.168.89.2            246           2731   0.000210

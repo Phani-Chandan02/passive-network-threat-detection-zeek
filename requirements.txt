@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+joblib
+tqdm
+streamlit
+plotly
+seaborn
+watchdog
+geoip2
+fastapi       # if you later add a scoring API
+uvicorn
